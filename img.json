@@ -1,4 +1,5 @@
-[
+{
+    "images":[
     "https://kivtechmain.github.io/random_img_json/img/01%20gettyimages-958496222_resized.jpg",
     "https://kivtechmain.github.io/random_img_json/img/02%20gettyimages-1139892424_resized.jpg",
     "https://kivtechmain.github.io/random_img_json/img/03%20gettyimages-669891618_resized.jpg",
@@ -26,3 +27,4 @@
     "https://kivtechmain.github.io/random_img_json/img/f6504800-c212-4853-a729-fc2224f2521f.jpg",
     "https://kivtechmain.github.io/random_img_json/img/b087fb4f-d038-4158-b309-067d7b6dac92.jpg"
 ]
+}
